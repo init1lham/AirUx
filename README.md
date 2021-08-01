@@ -1,7 +1,7 @@
 # AirUx
 
 -----------------------------------------------------------------------------------------------------------------------------
-## AirPlay For Linux
+## 🏠 [AirPlay For Linux](https://github.com/init1lham/AirUx/)
 
  Easily stream your IOS device to Linux
  
@@ -26,8 +26,9 @@
   <img src="https://raw.githubusercontent.com/init1lham/AirUx/main/screenshot2.png" width="100" />
   <img src="https://raw.githubusercontent.com/init1lham/AirUx/main/screenshot3.png" width="100" />
 </p>
-## ![Media Playback](https://raw.githubusercontent.com/init1lham/AirUx/main/screenshot0.png) ![](https://raw.githubusercontent.com/init1lham/AirUx/main/screenshot1.png) ![](https://raw.githubusercontent.com/init1lham/AirUx/main/screenshot2.png) ![](https://raw.githubusercontent.com/init1lham/AirUx/main/screenshot3.png)
 
+## Show your support
 
+Give a ⭐️ if this project helped you !
 
-Based on RPiPlay
+## Based on RPiPlay
