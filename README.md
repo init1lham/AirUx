@@ -3,7 +3,7 @@
 -----------------------------------------------------------------------------------------------------------------------------
 ## AirPlay For Linux
 
-## Based on RPiPlay https://github.com/FD-/RPiPlay
+ Based on RPiPlay https://github.com/FD-/RPiPlay
 
  Easily stream your IOS device to Linux
 ## INSTALLATION:
