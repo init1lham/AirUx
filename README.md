@@ -7,12 +7,6 @@
 
 ## Easily stream your ios device to Unix based OSs
 
-## Apple Tv Emu
-
-## STEPS:
-# 1.cd AirUx
-# 2.chmod +x setup.sh
-
 -----------------------------------------------------------------------------------------------------------------------------
 
 
