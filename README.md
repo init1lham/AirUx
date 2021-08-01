@@ -5,8 +5,13 @@
 
 ## Based on RPiPlay https://github.com/FD-/RPiPlay
 
-## Easily stream your ios device to Unix based OSs
-
+ Easily stream your IOS device to Linux
+## INSTALLATION:
+1. git clone 
+2. cd AirUx
+3. chmod +x setup.sh
+4. ./setup.sh
+## NOTE: AFTER SETUP RUN AirUx TO ACCESS FROM ANYWHERE
 -----------------------------------------------------------------------------------------------------------------------------
 
 
