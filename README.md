@@ -20,14 +20,12 @@
  2. sudo avahi-daemon
 ## NOTE: AFTER SETUP RUN AirUx TO ACCESS FROM ANYWHERE
 -----------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
+<p float="left">
+  <img src="https://raw.githubusercontent.com/init1lham/AirUx/main/screenshot0.png" width="100" />
+  <img src="https://raw.githubusercontent.com/init1lham/AirUx/main/screenshot1.png" width="100" /> 
+  <img src="https://raw.githubusercontent.com/init1lham/AirUx/main/screenshot2.png" width="100" />
+  <img src="https://raw.githubusercontent.com/init1lham/AirUx/main/screenshot3.png" width="100" />
+</p>
 ## ![Media Playback](https://raw.githubusercontent.com/init1lham/AirUx/main/screenshot0.png) ![](https://raw.githubusercontent.com/init1lham/AirUx/main/screenshot1.png) ![](https://raw.githubusercontent.com/init1lham/AirUx/main/screenshot2.png) ![](https://raw.githubusercontent.com/init1lham/AirUx/main/screenshot3.png)
 
 
