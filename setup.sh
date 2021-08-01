@@ -1,5 +1,5 @@
 #!/bin/sh
-tput setaf 0;
+tput setaf 4;
 sudo apt-get install cmake gstreamer1.0-vaapi libssl-dev libavahi-compat-libdnssd-dev libgstreamer1.0-dev libgstreamer-plugins-base1.0-dev gstreamer1.0-libav -y 
 mkdir build 
 cd build 
