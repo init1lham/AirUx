@@ -6,7 +6,7 @@
  Easily stream your IOS device to Linux
  
 ## INSTALLATION:
- 1. git clone 
+ 1. git clone https://github.com/init1lham/AirUx.git
  2. cd AirUx
  3. chmod +x setup.sh
  4. ./setup.sh
