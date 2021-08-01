@@ -13,7 +13,7 @@
 ## FEATURES:
  1. Automatic Rotation.
  2. Media Playback Support.
- 3. Basically can do everything that Apple Tv can.
+ 3. Basically can do everything that Apple TV can.
 ## TROUBLESHOOTING:
  If tool becomes unstable after several uses, try:
  1. sudo avahi-daemon -k
