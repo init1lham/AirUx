@@ -3,9 +3,8 @@
 -----------------------------------------------------------------------------------------------------------------------------
 ## AirPlay For Linux
 
- Based on RPiPlay https://github.com/FD-/RPiPlay
-
  Easily stream your IOS device to Linux
+ 
 ## INSTALLATION:
 1. git clone 
 2. cd AirUx
@@ -22,3 +21,7 @@
 
 
 ## ![alt text](https://raw.githubusercontent.com/init1lham/AirUx/main/screenshot.png)
+
+
+
+Based on RPiPlay
