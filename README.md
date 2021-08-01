@@ -28,10 +28,7 @@
 
 
 
-## ![Media Playback](https://raw.githubusercontent.com/init1lham/AirUx/main/screenshot0.png)
-![](https://raw.githubusercontent.com/init1lham/AirUx/main/screenshot1.png)
-![](https://raw.githubusercontent.com/init1lham/AirUx/main/screenshot2.png)
-![](https://raw.githubusercontent.com/init1lham/AirUx/main/screenshot3.png)
+## ![Media Playback](https://raw.githubusercontent.com/init1lham/AirUx/main/screenshot0.png) ![](https://raw.githubusercontent.com/init1lham/AirUx/main/screenshot1.png) ![](https://raw.githubusercontent.com/init1lham/AirUx/main/screenshot2.png) ![](https://raw.githubusercontent.com/init1lham/AirUx/main/screenshot3.png)
 
 
 
