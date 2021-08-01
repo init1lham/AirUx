@@ -33,4 +33,4 @@ $ ./setup.sh
 
 Give a ⭐️ if this project helped you !
 
-## Based on RPiPlay
+## Based on <a href="https://github.com/FD-/RPiPlay">RPiPlay</a>
