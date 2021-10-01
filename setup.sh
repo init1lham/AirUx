@@ -6,10 +6,10 @@ cd build
 cmake ..
 make 
 sudo cp AirUx /usr/local/bin                     
-sudo avahi-daemon 
 tput setaf 1;
 figlet "AirUx is added to path. You can access AirUx from anywhere."
 tput setaf 2;
 figlet "AirUx is Running"
 tput setaf 3;
+sudo avahi-daemon 
 ./AirUx 
