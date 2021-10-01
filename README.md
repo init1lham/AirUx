@@ -7,10 +7,7 @@
  
 ## INSTALLATION:
 ```
-$ git clone https://github.com/init1lham/AirUx.git
-$ cd AirUx
-$ chmod +x setup.sh
-$ ./setup.sh
+$ git clone https://github.com/init1lham/AirUx.git && cd AirUx && chmod +x setup.sh && ./setup.sh
 ```
 ## FEATURES:
  1. Automatic Rotation.
